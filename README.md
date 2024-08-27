@@ -1,12 +1,10 @@
 # Evaluación Final Spring Módulo 4 Fundamentos de Programación Java
 ## Sistema de Información para Empresa de Asesorías en Prevención de Riesgos
 # Integrantes:
-     Nicolás Gajardo
-     Jorge Lira
-     Beatriz Maldonado
-     Diego Rivera
-
-
+Nicolás Gajardo (Repo: https://github.com/Meneazus/Sprint-Final-Modulo-4)
+Jorge Lira
+ Beatriz Maldonado
+ Diego Rivera
 
 ## Índice
 
