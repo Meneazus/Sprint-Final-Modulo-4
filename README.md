@@ -5,7 +5,7 @@ Nicolás Gajardo (Repo: https://github.com/Meneazus/Sprint-Final-Modulo-4)
 
 Jorge Lira ()
 
-Beatriz Maldonado ()
+Beatriz Maldonado (https://github.com/Bemm12/SprintFinalM4)
 
 Diego Rivera (Repo: https://github.com/D3R5/Sprint5Unidad4JavaBootcamp)
 
