@@ -2,9 +2,13 @@
 ## Sistema de Información para Empresa de Asesorías en Prevención de Riesgos
 # Integrantes:
 Nicolás Gajardo (Repo: https://github.com/Meneazus/Sprint-Final-Modulo-4)
+
 Jorge Lira
- Beatriz Maldonado
- Diego Rivera
+
+Beatriz Maldonado
+
+Diego Rivera
+
 
 ## Índice
 
