@@ -7,7 +7,7 @@ Jorge Lira ()
 
 Beatriz Maldonado ()
 
-Diego Rivera (https://github.com/D3R5/Sprint5Unidad4JavaBootcamp)
+Diego Rivera (Repo: https://github.com/D3R5/Sprint5Unidad4JavaBootcamp)
 
 
 ## Índice
