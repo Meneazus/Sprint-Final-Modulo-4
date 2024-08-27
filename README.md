@@ -3,7 +3,7 @@
 # Integrantes:
 Nicolás Gajardo (Repo: https://github.com/Meneazus/Sprint-Final-Modulo-4)
 
-Jorge Lira ()
+Jorge Lira (https://github.com/lyra-c/sprint-final-modulo-4)
 
 Beatriz Maldonado (https://github.com/Bemm12/SprintFinalM4)
 
