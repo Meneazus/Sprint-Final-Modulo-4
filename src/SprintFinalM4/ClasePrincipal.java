@@ -31,6 +31,7 @@ public class ClasePrincipal {
 		int opcion;
 		do {
 			System.out.println("----------------------------");
+			System.out.println("---Menú Principal---");
 			System.out.println("1. Almacenar Cliente");
 			System.out.println("2. Almacenar Profesional");
 			System.out.println("3. Almacenar Administrativo");
