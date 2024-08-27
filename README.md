@@ -3,11 +3,11 @@
 # Integrantes:
 Nicolás Gajardo (Repo: https://github.com/Meneazus/Sprint-Final-Modulo-4)
 
-Jorge Lira
+Jorge Lira ()
 
-Beatriz Maldonado
+Beatriz Maldonado ()
 
-Diego Rivera
+Diego Rivera (https://github.com/D3R5/Sprint5Unidad4JavaBootcamp)
 
 
 ## Índice
