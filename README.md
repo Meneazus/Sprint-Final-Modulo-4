@@ -96,6 +96,8 @@ muchas empresas se encuentran en zonas donde no hay conexión de ese tipo.
 
 
 
+Para visualizar el diagrama UML del proyecto ingrese al siguiente link:
+[https://miro.com/app/board/uXjVKl5EMks=/](https://miro.com/app/board/uXjVKl5EMks=/)
 
 
 
