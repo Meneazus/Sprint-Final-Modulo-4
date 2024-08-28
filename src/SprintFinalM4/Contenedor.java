@@ -4,36 +4,21 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
-* Clase Contenedor
-* 
-* Cuenta con los métodos para:
-* - Almacenar cliente
-* - Almacenar profesional
-* - Almacenar administrativo
-* - Almacenar capacitación
-* - Eliminar usuario
-* - Listar usuarios
-* - Listar usuarios por tipo
-* - Listar capacitaciones
-* 
-* @author Nicolás Gajardo
-* @author Jorge Lira
-* @author Beatriz Maldonado
-* @author Diego Rivera
-*
-* @version 1.0
-* */
+ * Clase Contenedor
+ * 
+ * Cuenta con los métodos para: - Almacenar cliente - Almacenar profesional -
+ * Almacenar administrativo - Almacenar capacitación - Eliminar usuario - Listar
+ * usuarios - Listar usuarios por tipo - Listar capacitaciones
+ * 
+ * @author Nicolás Gajardo
+ * @author Jorge Lira
+ * @author Beatriz Maldonado
+ * @author Diego Rivera
+ *
+ * @version 1.0
+ */
 public class Contenedor {
-	/*
-	 * Lista de instancias de la interfaz Asesoria. Lista de instancias de la clase
-	 * Capacitación.
-	 * 
-	 * @author Nicolás Gajardo
-	 * @author Jorge Lira
-	 * @author Beatriz Maldonado
-	 * @author Diego Rivera
-	 * @version 1.0
-	 */
+
 	private List<Asesoria> asesorias;
 	private List<Capacitacion> capacitaciones;
 
